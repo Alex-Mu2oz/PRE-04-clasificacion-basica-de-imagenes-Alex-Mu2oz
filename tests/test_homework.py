@@ -3,7 +3,7 @@
 import os
 import pickle
 
-from sklearn import datasets  # type: ignore
+from sklearn import datasets  # type: ignore 
 from sklearn.metrics import accuracy_score  # type: ignore
 
 
